@@ -1,15 +1,26 @@
 ### Date created
-Include the date you created this project and README file.
+Created on June 9,2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+In this project, I will make use of Python to explore data related to bike share systems for three major cities in the United States— Chicago, New York City, and Washington. I also import data and create an interative experience to answer some questions about it.
 
 ### Files used
-Include the files used
-
+Randomly selected data for the first six months of 2017 are provided for all three cities.
+There are six columns in dataset: Start Time, End Time, Trip Duration, Start Station, End Station,User Type. For Chicago and New York City also contains Gender and Birth Year info. 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Raw Data:   
+https://www.divvybikes.com/system-data
+https://www.citibikenyc.com/system-data
+https://www.capitalbikeshare.com/system-data
+
+A template with helper code is provided by Udacity
+
+
+
+
+
+
 

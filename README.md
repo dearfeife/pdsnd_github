@@ -9,7 +9,7 @@ In this project, I will make use of Python to explore data related to bike share
 
 ### Files used
 Randomly selected data for the first six months of 2017 are provided for all three cities.
-There are six columns in dataset: Start Time, End Time, Trip Duration, Start Station, End Station,User Type. For Chicago and New York City also contains Gender and Birth Year info. 
+There are six columns in dataset: Start Time, End Time, Trip Duration, Start Station, End Station,User Type. For Chicago and New York City also contains Gender and Birth Year columns.
 ### Credits
 Raw Data:   
 https://www.divvybikes.com/system-data

@@ -1,5 +1,5 @@
 ### Date created
-Created on June 9,2020
+The File Created on June 9,2020
 
 ### Project Title
 Explore US Bikeshare Data
@@ -10,6 +10,11 @@ In this project, I will make use of Python to explore data related to bike share
 ### Files used
 Randomly selected data for the first six months of 2017 are provided for all three cities.
 There are six columns in dataset: Start Time, End Time, Trip Duration, Start Station, End Station,User Type. For Chicago and New York City also contains Gender and Birth Year columns.
+
+chicago.csv
+new_york_city.csv
+washington.csv
+
 ### Credits
 Raw Data:   
 https://www.divvybikes.com/system-data

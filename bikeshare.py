@@ -46,8 +46,10 @@ def get_filters():
             
     return city,month,day    
     print('-'*40)
-def make_changes()
+def make_changes():
     print("make changes")
+def second_change():
+    print("Second Changes")
 
 
 def load_data(city, month, day):
